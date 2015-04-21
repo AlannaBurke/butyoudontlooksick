@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Sick Article feature.
+ */
+
+include_once 'sick_article.features.inc';
